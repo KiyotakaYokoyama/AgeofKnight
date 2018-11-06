@@ -1,0 +1,1226 @@
+fileFormatVersion: 2
+guid: 109d9a3d48df1304cb0e97de3417288e
+timeCreated: 1515665648
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: doctor_belt_mesh_001
+    100004: doctor_belt_mesh_002
+    100006: doctor_body_mesh_001
+    100008: doctor_cloth_mesh_001_01
+    100010: doctor_cloth_mesh_001_02
+    100012: doctor_cloth_mesh_003
+    100014: doctor_cloth_mesh_004_01
+    100016: doctor_cloth_mesh_004_02
+    100018: doctor_cloth_mesh_005_01
+    100020: doctor_cloth_mesh_005_02
+    100022: doctor_colth_center_1_1
+    100024: doctor_colth_center_1_2
+    100026: doctor_colth_center_1_3
+    100028: doctor_colth_center_1_4
+    100030: doctor_colth_Left_1_1
+    100032: doctor_colth_Left_1_2
+    100034: doctor_colth_Left_1_3
+    100036: doctor_colth_Left_1_4
+    100038: doctor_colth_Left_2_1
+    100040: doctor_colth_Left_2_2
+    100042: doctor_colth_Left_2_3
+    100044: doctor_colth_Left_2_4
+    100046: doctor_colth_Right_1_1
+    100048: doctor_colth_Right_1_2
+    100050: doctor_colth_Right_1_4
+    100052: doctor_colth_Right_1_5
+    100054: doctor_colth_Right_2_1
+    100056: doctor_colth_Right_2_2
+    100058: doctor_colth_Right_2_3
+    100060: doctor_colth_Right_2_4
+    100062: doctor_comon_mesh_001
+    100064: doctor_comon_mesh_002
+    100066: doctor_comon_mesh_003
+    100068: doctor_comon_mesh_004
+    100070: doctor_hand_001
+    100072: doctor_Head
+    100074: doctor_head_mesh_002
+    100076: doctor_head_mesh_003
+    100078: doctor_Hips
+    100080: doctor_LeftArm
+    100082: doctor_LeftFoot
+    100084: doctor_LeftForeArm
+    100086: doctor_LeftHand
+    100088: doctor_LeftHandIndex1
+    100090: doctor_LeftHandIndex2
+    100092: doctor_LeftHandIndex3
+    100094: doctor_LeftHandMiddle1
+    100096: doctor_LeftHandMiddle2
+    100098: doctor_LeftHandMiddle3
+    100100: doctor_LeftHandPinky1
+    100102: doctor_LeftHandPinky2
+    100104: doctor_LeftHandPinky3
+    100106: doctor_LeftHandRing1
+    100108: doctor_LeftHandRing2
+    100110: doctor_LeftHandRing3
+    100112: doctor_LeftHandThumb1
+    100114: doctor_LeftHandThumb2
+    100116: doctor_LeftHandThumb3
+    100118: doctor_LeftLeg
+    100120: doctor_LeftShoulder
+    100122: doctor_LeftToeBase
+    100124: doctor_LeftUpLeg
+    100126: doctor_mesh_002
+    100128: doctor_Neck
+    100130: doctor_neiyi_mesh_001
+    100132: doctor_neiyi_yiling_mesh_001
+    100134: doctor_neiyi_yiling_mesh_002
+    100136: doctor_neiyi_zhongjian_mesh_001
+    100138: doctor_Reference
+    100140: doctor_Right_Foot
+    100142: doctor_Right_Leg
+    100144: doctor_Right_ToeBase
+    100146: doctor_Right_UpLeg
+    100148: doctor_RightArm
+    100150: doctor_RightForeArm
+    100152: doctor_RightHand
+    100154: doctor_RightHandIndex1
+    100156: doctor_RightHandIndex2
+    100158: doctor_RightHandIndex3
+    100160: doctor_RightHandMiddle1
+    100162: doctor_RightHandMiddle2
+    100164: doctor_RightHandMiddle3
+    100166: doctor_RightHandPinky1
+    100168: doctor_RightHandPinky2
+    100170: doctor_RightHandPinky3
+    100172: doctor_RightHandRing1
+    100174: doctor_RightHandRing2
+    100176: doctor_RightHandRing3
+    100178: doctor_RightHandThumb1
+    100180: doctor_RightHandThumb2
+    100182: doctor_RightHandThumb3
+    100184: doctor_RightShoulder
+    100186: doctor_Spine
+    100188: doctor_Spine1
+    100190: doctor_tourao_mesh_001
+    100192: doctor_toutao__esh_002
+    100194: doctor_Upperchest
+    400000: //RootNode
+    400002: doctor_belt_mesh_001
+    400004: doctor_belt_mesh_002
+    400006: doctor_body_mesh_001
+    400008: doctor_cloth_mesh_001_01
+    400010: doctor_cloth_mesh_001_02
+    400012: doctor_cloth_mesh_003
+    400014: doctor_cloth_mesh_004_01
+    400016: doctor_cloth_mesh_004_02
+    400018: doctor_cloth_mesh_005_01
+    400020: doctor_cloth_mesh_005_02
+    400022: doctor_colth_center_1_1
+    400024: doctor_colth_center_1_2
+    400026: doctor_colth_center_1_3
+    400028: doctor_colth_center_1_4
+    400030: doctor_colth_Left_1_1
+    400032: doctor_colth_Left_1_2
+    400034: doctor_colth_Left_1_3
+    400036: doctor_colth_Left_1_4
+    400038: doctor_colth_Left_2_1
+    400040: doctor_colth_Left_2_2
+    400042: doctor_colth_Left_2_3
+    400044: doctor_colth_Left_2_4
+    400046: doctor_colth_Right_1_1
+    400048: doctor_colth_Right_1_2
+    400050: doctor_colth_Right_1_4
+    400052: doctor_colth_Right_1_5
+    400054: doctor_colth_Right_2_1
+    400056: doctor_colth_Right_2_2
+    400058: doctor_colth_Right_2_3
+    400060: doctor_colth_Right_2_4
+    400062: doctor_comon_mesh_001
+    400064: doctor_comon_mesh_002
+    400066: doctor_comon_mesh_003
+    400068: doctor_comon_mesh_004
+    400070: doctor_hand_001
+    400072: doctor_Head
+    400074: doctor_head_mesh_002
+    400076: doctor_head_mesh_003
+    400078: doctor_Hips
+    400080: doctor_LeftArm
+    400082: doctor_LeftFoot
+    400084: doctor_LeftForeArm
+    400086: doctor_LeftHand
+    400088: doctor_LeftHandIndex1
+    400090: doctor_LeftHandIndex2
+    400092: doctor_LeftHandIndex3
+    400094: doctor_LeftHandMiddle1
+    400096: doctor_LeftHandMiddle2
+    400098: doctor_LeftHandMiddle3
+    400100: doctor_LeftHandPinky1
+    400102: doctor_LeftHandPinky2
+    400104: doctor_LeftHandPinky3
+    400106: doctor_LeftHandRing1
+    400108: doctor_LeftHandRing2
+    400110: doctor_LeftHandRing3
+    400112: doctor_LeftHandThumb1
+    400114: doctor_LeftHandThumb2
+    400116: doctor_LeftHandThumb3
+    400118: doctor_LeftLeg
+    400120: doctor_LeftShoulder
+    400122: doctor_LeftToeBase
+    400124: doctor_LeftUpLeg
+    400126: doctor_mesh_002
+    400128: doctor_Neck
+    400130: doctor_neiyi_mesh_001
+    400132: doctor_neiyi_yiling_mesh_001
+    400134: doctor_neiyi_yiling_mesh_002
+    400136: doctor_neiyi_zhongjian_mesh_001
+    400138: doctor_Reference
+    400140: doctor_Right_Foot
+    400142: doctor_Right_Leg
+    400144: doctor_Right_ToeBase
+    400146: doctor_Right_UpLeg
+    400148: doctor_RightArm
+    400150: doctor_RightForeArm
+    400152: doctor_RightHand
+    400154: doctor_RightHandIndex1
+    400156: doctor_RightHandIndex2
+    400158: doctor_RightHandIndex3
+    400160: doctor_RightHandMiddle1
+    400162: doctor_RightHandMiddle2
+    400164: doctor_RightHandMiddle3
+    400166: doctor_RightHandPinky1
+    400168: doctor_RightHandPinky2
+    400170: doctor_RightHandPinky3
+    400172: doctor_RightHandRing1
+    400174: doctor_RightHandRing2
+    400176: doctor_RightHandRing3
+    400178: doctor_RightHandThumb1
+    400180: doctor_RightHandThumb2
+    400182: doctor_RightHandThumb3
+    400184: doctor_RightShoulder
+    400186: doctor_Spine
+    400188: doctor_Spine1
+    400190: doctor_tourao_mesh_001
+    400192: doctor_toutao__esh_002
+    400194: doctor_Upperchest
+    4300000: doctor_head_mesh_002
+    4300002: doctor_head_mesh_003
+    4300004: doctor_body_mesh_001
+    4300006: doctor_hand_001
+    4300008: doctor_cloth_mesh_001_01
+    4300010: doctor_cloth_mesh_001_02
+    4300012: doctor_cloth_mesh_003
+    4300014: doctor_cloth_mesh_004_01
+    4300016: doctor_cloth_mesh_004_02
+    4300018: doctor_cloth_mesh_005_01
+    4300020: doctor_cloth_mesh_005_02
+    4300022: doctor_belt_mesh_001
+    4300024: doctor_belt_mesh_002
+    4300026: doctor_comon_mesh_001
+    4300028: doctor_comon_mesh_002
+    4300030: doctor_comon_mesh_003
+    4300032: doctor_comon_mesh_004
+    4300034: doctor_neiyi_mesh_001
+    4300036: doctor_neiyi_yiling_mesh_001
+    4300038: doctor_neiyi_yiling_mesh_002
+    4300040: doctor_neiyi_zhongjian_mesh_001
+    4300042: doctor_tourao_mesh_001
+    4300044: doctor_toutao__esh_002
+    9500000: //RootNode
+    13700000: doctor_belt_mesh_001
+    13700002: doctor_belt_mesh_002
+    13700004: doctor_body_mesh_001
+    13700006: doctor_cloth_mesh_001_01
+    13700008: doctor_cloth_mesh_001_02
+    13700010: doctor_cloth_mesh_003
+    13700012: doctor_cloth_mesh_004_01
+    13700014: doctor_cloth_mesh_004_02
+    13700016: doctor_cloth_mesh_005_01
+    13700018: doctor_cloth_mesh_005_02
+    13700020: doctor_comon_mesh_001
+    13700022: doctor_comon_mesh_002
+    13700024: doctor_comon_mesh_003
+    13700026: doctor_comon_mesh_004
+    13700028: doctor_hand_001
+    13700030: doctor_head_mesh_002
+    13700032: doctor_head_mesh_003
+    13700034: doctor_neiyi_mesh_001
+    13700036: doctor_neiyi_yiling_mesh_001
+    13700038: doctor_neiyi_yiling_mesh_002
+    13700040: doctor_neiyi_zhongjian_mesh_001
+    13700042: doctor_tourao_mesh_001
+    13700044: doctor_toutao__esh_002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: doctor_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Right_UpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Right_Leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Right_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Right_ToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: doctor_Upperchest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: doctor(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_mesh_002
+      parentName: doctor(Clone)
+      position: {x: -0, y: 0.90924877, z: -0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_belt_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_belt_mesh_002
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_body_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_001_01
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_001_02
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_003
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_004_01
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_004_02
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_005_01
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_cloth_mesh_005_02
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_comon_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_comon_mesh_002
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_comon_mesh_003
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_comon_mesh_004
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_hand_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_head_mesh_002
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_head_mesh_003
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_neiyi_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_neiyi_yiling_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_neiyi_yiling_mesh_002
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_neiyi_zhongjian_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_tourao_mesh_001
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_toutao__esh_002
+      parentName: doctor_mesh_002
+      position: {x: -0, y: -0.90924877, z: 0.09210719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Reference
+      parentName: doctor(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Hips
+      parentName: doctor_Reference
+      position: {x: -0.00016736888, y: 0.94025844, z: -0.040293235}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_center_1_1
+      parentName: doctor_Hips
+      position: {x: 0.00016736888, y: 0.0012097573, z: -0.16304888}
+      rotation: {x: -0.62904215, y: 0, z: -0, w: 0.7773712}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_center_1_2
+      parentName: doctor_colth_center_1_1
+      position: {x: -0, y: 0, z: -0.13952336}
+      rotation: {x: -0.026691126, y: 0, z: -0, w: 0.99964374}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_center_1_3
+      parentName: doctor_colth_center_1_2
+      position: {x: -0, y: 0, z: -0.18116046}
+      rotation: {x: -0.010667073, y: 0, z: -0, w: 0.99994314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_center_1_4
+      parentName: doctor_colth_center_1_3
+      position: {x: -0, y: 0, z: -0.19961281}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_1_1
+      parentName: doctor_Hips
+      position: {x: -0.1377106, y: 0.010987557, z: -0.10231328}
+      rotation: {x: -0.5591826, y: 0.35843718, z: 0.29109204, w: 0.6885514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_1_2
+      parentName: doctor_colth_Left_1_1
+      position: {x: -0, y: 0, z: -0.13952336}
+      rotation: {x: -0.010667073, y: 0, z: -0, w: 0.99994314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_1_3
+      parentName: doctor_colth_Left_1_2
+      position: {x: -0, y: 0, z: -0.18116046}
+      rotation: {x: -0.05965482, y: 0, z: -0, w: 0.9982191}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_1_4
+      parentName: doctor_colth_Left_1_3
+      position: {x: -0, y: 0, z: -0.19961281}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_2_1
+      parentName: doctor_Hips
+      position: {x: -0.14713253, y: 0.019924203, z: 0.0591688}
+      rotation: {x: -0.4109855, y: 0.575405, z: 0.4109855, w: 0.575405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_2_2
+      parentName: doctor_colth_Left_2_1
+      position: {x: -0, y: 0, z: -0.13952336}
+      rotation: {x: -0.089315824, y: 0.019653238, z: -0.0060022725, w: 0.9957914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_2_3
+      parentName: doctor_colth_Left_2_2
+      position: {x: -0, y: 0, z: -0.18116046}
+      rotation: {x: -0.10272332, y: 0, z: -0, w: 0.99470997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Left_2_4
+      parentName: doctor_colth_Left_2_3
+      position: {x: -0, y: 7.105427e-17, z: -0.21840923}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_1_1
+      parentName: doctor_Hips
+      position: {x: 0.13771036, y: 0.010987479, z: -0.102313764}
+      rotation: {x: -0.559182, y: -0.35843745, z: -0.2910917, w: 0.6885519}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_1_2
+      parentName: doctor_colth_Right_1_1
+      position: {x: -0, y: 0, z: -0.13952336}
+      rotation: {x: -0.010667073, y: 0, z: -0, w: 0.99994314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_1_4
+      parentName: doctor_colth_Right_1_2
+      position: {x: -0, y: 0, z: -0.18116046}
+      rotation: {x: -0.05965482, y: 0, z: -0, w: 0.9982191}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_1_5
+      parentName: doctor_colth_Right_1_4
+      position: {x: -0, y: 0, z: -0.19961281}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_2_1
+      parentName: doctor_Hips
+      position: {x: 0.14713237, y: 0.019924479, z: 0.059168834}
+      rotation: {x: -0.41098565, y: -0.5754049, z: -0.41098565, w: 0.5754049}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_2_2
+      parentName: doctor_colth_Right_2_1
+      position: {x: -0, y: 0, z: -0.13952336}
+      rotation: {x: -0.08928484, y: -0.02019726, z: 0.0037878444, w: 0.9957941}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_2_3
+      parentName: doctor_colth_Right_2_2
+      position: {x: -0, y: 0, z: -0.18116046}
+      rotation: {x: -0.10272332, y: 0, z: -0, w: 0.99470997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_colth_Right_2_4
+      parentName: doctor_colth_Right_2_3
+      position: {x: -0, y: 7.105427e-17, z: -0.21840923}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftUpLeg
+      parentName: doctor_Hips
+      position: {x: -0.086212344, y: -0.048000608, z: 0.0013165554}
+      rotation: {x: 4.310157e-24, y: -1.2246143e-16, z: -8.922877e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftLeg
+      parentName: doctor_LeftUpLeg
+      position: {x: 1.7230661e-15, y: -0.4707791, z: 0.00837155}
+      rotation: {x: 5.1325766e-16, y: 1.28140885e-23, z: 7.206078e-22, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftFoot
+      parentName: doctor_LeftLeg
+      position: {x: 0.000000028610234, y: -0.34210318, z: -0.014294434}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftToeBase
+      parentName: doctor_LeftFoot
+      position: {x: -0.0000001131025, y: -0.047084432, z: 0.099388905}
+      rotation: {x: -0.6028232, y: -7.411539e-22, z: -5.2939564e-22, w: 0.79787487}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Right_UpLeg
+      parentName: doctor_Hips
+      position: {x: 0.08621237, y: -0.048000522, z: 0.0013165348}
+      rotation: {x: -2.1943995e-31, y: -1.2246143e-16, z: -8.9229e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Right_Leg
+      parentName: doctor_Right_UpLeg
+      position: {x: 1.7763568e-17, y: -0.470779, z: 0.0083716}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Right_Foot
+      parentName: doctor_Right_Leg
+      position: {x: -1.4743761e-15, y: -0.3421034, z: -0.0142945}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Right_ToeBase
+      parentName: doctor_Right_Foot
+      position: {x: 0.000000100000015, y: -0.0470844, z: 0.099388905}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Spine
+      parentName: doctor_Hips
+      position: {x: 0.00016736888, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Spine1
+      parentName: doctor_Spine
+      position: {x: -2.0854845e-16, y: 0.14359988, z: 0.00009819291}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Upperchest
+      parentName: doctor_Spine1
+      position: {x: -2.945934e-16, y: 0.25768745, z: -0.0015918183}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftShoulder
+      parentName: doctor_Upperchest
+      position: {x: -0.06756036, y: 0.06467145, z: 0.030889384}
+      rotation: {x: -0.00000001948545, y: 0.12770648, z: -0.18823417, w: 0.9737859}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftArm
+      parentName: doctor_LeftShoulder
+      position: {x: -0.085235864, y: -0.06833235, z: -0.0463597}
+      rotation: {x: -0.0073301625, y: -0.113314115, z: 0.1934425, w: 0.9745185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftForeArm
+      parentName: doctor_LeftArm
+      position: {x: -0.17650983, y: 0.011418304, z: 5.7731595e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHand
+      parentName: doctor_LeftForeArm
+      position: {x: -0.2873764, y: 1.4210854e-16, z: 8.659739e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandIndex1
+      parentName: doctor_LeftHand
+      position: {x: -0.1331877, y: -0.018316362, z: 0.04388826}
+      rotation: {x: -0.027115436, y: 0.059371702, z: 0.17050989, w: 0.98319185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandIndex2
+      parentName: doctor_LeftHandIndex1
+      position: {x: -0.04480728, y: 0.00420488, z: -0.000111999936}
+      rotation: {x: 0.000000011175871, y: -0.00014666095, z: -0.0055058873, w: 0.9999849}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandIndex3
+      parentName: doctor_LeftHandIndex2
+      position: {x: -0.028403252, y: -1.2789769e-15, z: -3.9443044e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandMiddle1
+      parentName: doctor_LeftHand
+      position: {x: -0.14089938, y: -0.013441201, z: 0.011427507}
+      rotation: {x: -0.0073430347, y: 0.026545767, z: 0.12219854, w: 0.9921235}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandMiddle2
+      parentName: doctor_LeftHandMiddle1
+      position: {x: -0.0432611, y: 8.5265126e-16, z: 1.3322676e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandMiddle3
+      parentName: doctor_LeftHandMiddle2
+      position: {x: -0.03248474, y: -0.00027239168, z: -7.771561e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandPinky1
+      parentName: doctor_LeftHand
+      position: {x: -0.1194698, y: -0.027891247, z: -0.036912378}
+      rotation: {x: -0.187357, y: -0.014110261, z: 0.11270422, w: 0.9757029}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandPinky2
+      parentName: doctor_LeftHandPinky1
+      position: {x: -0.036079448, y: -1.1368684e-15, z: 3.5527136e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandPinky3
+      parentName: doctor_LeftHandPinky2
+      position: {x: -0.022667415, y: -0.0010430488, z: 1.687539e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandRing1
+      parentName: doctor_LeftHand
+      position: {x: -0.13496575, y: -0.019085092, z: -0.016301168}
+      rotation: {x: -0.023582807, y: 0.013741283, z: 0.11894926, w: 0.99252516}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandRing2
+      parentName: doctor_LeftHandRing1
+      position: {x: -0.043144558, y: 8.5265126e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandRing3
+      parentName: doctor_LeftHandRing2
+      position: {x: -0.027185868, y: -3.2185524e-30, z: -8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandThumb1
+      parentName: doctor_LeftHand
+      position: {x: -0.05832735, y: -0.0055718804, z: 0.044587366}
+      rotation: {x: -0.008781321, y: -0.005167559, z: -0.007894904, w: 0.999917}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandThumb2
+      parentName: doctor_LeftHandThumb1
+      position: {x: -0.019679299, y: -0.008363101, z: 0.027362922}
+      rotation: {x: -0.14053868, y: -0.09283207, z: -0.1294479, w: 0.9771767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_LeftHandThumb3
+      parentName: doctor_LeftHandThumb2
+      position: {x: -0.007833867, y: -0.018102719, z: 0.021487102}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Neck
+      parentName: doctor_Upperchest
+      position: {x: 1.378626e-14, y: 0.10228191, z: -0.027180502}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_Head
+      parentName: doctor_Neck
+      position: {x: -2.014947e-15, y: 0.050903127, z: 0.0007302274}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightShoulder
+      parentName: doctor_Upperchest
+      position: {x: 0.0662383, y: 0.06467075, z: 0.030889375}
+      rotation: {x: 0.000000014477138, y: -0.12549941, z: 0.18499263, w: 0.97469366}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightArm
+      parentName: doctor_RightShoulder
+      position: {x: 0.0865577, y: -0.068336606, z: -0.046359714}
+      rotation: {x: -0.0071815355, y: 0.11099766, z: -0.19003707, w: 0.97545576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightForeArm
+      parentName: doctor_RightArm
+      position: {x: 0.1765074, y: 0.011419999, z: -6.883383e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHand
+      parentName: doctor_RightForeArm
+      position: {x: 0.28738, y: -1.4210854e-16, z: -6.661338e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandIndex1
+      parentName: doctor_RightHand
+      position: {x: 0.1331843, y: -0.018313639, z: 0.043888286}
+      rotation: {x: -0.027115608, y: -0.059369884, z: -0.17049864, w: 0.9831939}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandIndex2
+      parentName: doctor_RightHandIndex1
+      position: {x: 0.0448073, y: 0.004204679, z: -0.000111842666}
+      rotation: {x: -0.000000027939679, y: 0.00014653058, z: 0.005501211, w: 0.99998486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandIndex3
+      parentName: doctor_RightHandIndex2
+      position: {x: 0.028403252, y: -0.0000001277297, z: 0.000000101767135}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandMiddle1
+      parentName: doctor_RightHand
+      position: {x: 0.14089598, y: -0.013438476, z: 0.011427534}
+      rotation: {x: -0.00734356, y: -0.026547201, z: -0.12218742, w: 0.99212486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandMiddle2
+      parentName: doctor_RightHandMiddle1
+      position: {x: 0.0432611, y: -0.00000007866697, z: 1.7763568e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandMiddle3
+      parentName: doctor_RightHandMiddle2
+      position: {x: 0.03248474, y: -0.00027245076, z: -8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandPinky1
+      parentName: doctor_RightHand
+      position: {x: 0.119466394, y: -0.027888523, z: -0.03691235}
+      rotation: {x: -0.18735293, y: 0.0141048115, z: -0.11270112, w: 0.97570413}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandPinky2
+      parentName: doctor_RightHandPinky1
+      position: {x: 0.036079448, y: 0.00000022197239, z: -0.00000012711119}
+      rotation: {x: 0, y: 0.00008506798, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandPinky3
+      parentName: doctor_RightHandPinky2
+      position: {x: 0.022667421, y: -0.001042871, z: 0.0000041081157}
+      rotation: {x: 0, y: -0.00062205957, z: -0, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandRing1
+      parentName: doctor_RightHand
+      position: {x: 0.13496235, y: -0.019082367, z: -0.016301142}
+      rotation: {x: -0.023578886, y: -0.013739966, z: -0.11894367, w: 0.99252594}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandRing2
+      parentName: doctor_RightHandRing1
+      position: {x: 0.043144558, y: 0.00000016037153, z: 0.00000030543123}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandRing3
+      parentName: doctor_RightHandRing2
+      position: {x: 0.027185868, y: 0.00000010105189, z: 0.00000019245562}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandThumb1
+      parentName: doctor_RightHand
+      position: {x: 0.058323946, y: -0.005569156, z: 0.044587392}
+      rotation: {x: -0.008828492, y: 0.005191363, z: 0.007936057, w: 0.9999161}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandThumb2
+      parentName: doctor_RightHandThumb1
+      position: {x: 0.019679299, y: -0.008363101, z: 0.027362922}
+      rotation: {x: -0.14053828, y: 0.092829786, z: 0.12944643, w: 0.97717726}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doctor_RightHandThumb3
+      parentName: doctor_RightHandThumb2
+      position: {x: 0.007833867, y: -0.018102719, z: 0.021487102}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
