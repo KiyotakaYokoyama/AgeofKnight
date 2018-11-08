@@ -22,7 +22,6 @@ GameObject:
   - component: {fileID: 95451404084829416}
   - component: {fileID: 114836884838344640}
   - component: {fileID: 54791812242894598}
-  - component: {fileID: 65917270628542102}
   m_Layer: 0
   m_Name: target_B
   m_TagString: good
@@ -43,7 +42,7 @@ GameObject:
   - component: {fileID: 64533285552858574}
   m_Layer: 0
   m_Name: target_B_001
-  m_TagString: Untagged
+  m_TagString: good
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -61,7 +60,7 @@ GameObject:
   - component: {fileID: 64664015470219208}
   m_Layer: 0
   m_Name: barrel_B_002
-  m_TagString: Untagged
+  m_TagString: good
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -232,18 +231,6 @@ MeshCollider:
   m_CookingOptions: 14
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300002, guid: b54755d7407907a47a02566040a763c9, type: 3}
---- !u!65 &65917270628542102
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1363001644644106}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 2, z: 1}
-  m_Center: {x: 0, y: 1, z: 0}
 --- !u!95 &95451404084829416
 Animator:
   serializedVersion: 3
