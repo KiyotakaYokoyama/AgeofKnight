@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - good
+  - projectile
+  - stone
+  - concrete
+  - arrow
+  - wood
+  - floor
+  - water
   layers:
   - Default
   - TransparentFX
@@ -13,7 +21,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Field
   - 
   - 
   - 
